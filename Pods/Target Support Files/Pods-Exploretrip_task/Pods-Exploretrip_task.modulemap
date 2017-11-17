@@ -1,0 +1,6 @@
+framework module Pods_Exploretrip_task {
+  umbrella header "Pods-Exploretrip_task-umbrella.h"
+
+  export *
+  module * { export * }
+}
